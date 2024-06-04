@@ -15,7 +15,7 @@ inprogress
 API foundation is a set of services that allow you to manage organizations and govern groups of AWS user accounts.
 Enable accounts to centrally provision services and policies using native management and governance services like AWS Organization and AWS Control Tower. And for automation services, Lambda and API gateway services. 
 
-For the source code and more detailed documentation, visit the [cloud-services-api repository](https://github.com/stack-spot/cloud-services-foundation-infra-controlplane).
+For the source code and more detailed documentation, visit the [cloud-services-foudation infra-controlplane](https://github.com/stack-spot/cloud-services-foundation-infra-controlplane).
 
 # Administrative tasks
 
