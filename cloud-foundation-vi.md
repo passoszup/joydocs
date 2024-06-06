@@ -19,7 +19,7 @@ For the source code and more detailed documentation, visit the [cloud-services-f
 
 # Administrative tasks
 
-Para executar esta api é nescessário acesso a console com privilegios ao organization e control tower aws. 
+The API (Control Plane) has an authentication layer for its Development, Homologation and Production stages, authentication and authorization are performed via tokens, follow the examples below for the different stages.
 
 ## Listing Available Services
 
