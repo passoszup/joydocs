@@ -13,7 +13,7 @@ The Cloud Foundation API provides a robust interface for managing and orchestrat
 ## Prerequisites
 
 - StackSpot account with administrator permissions.
-- Access to the API repository: [stackspot-cs-infra-controlplanenewrepo](https: //github.com/stack-spot/stackspot-cs-infra-controlplanenewrepo).
+- Access to the API repository: [stackspot-cs-controlplane-docs](https://github.com/stack-spot/stackspot-cs-controlplane-docs) e [stackspot-cs-infra-controlplanenewrepo](https://github.com/stack-spot/stackspot-cs-infra-controlplanenewrepo).
 
 # Getting Help
 
@@ -56,26 +56,28 @@ POST /create-resource
 ## Troubleshooting
 
 # Known Issues
+
 Erro 1001: Invalid input
 Descrição: Entrada inválida fornecida.
 Causa Possível: Dados incorretos no formato de entrada.
 Solução: Verifique o formato de entrada e tente novamente.
 
 # APIs
-Full API documentation, including administration endpoints, can be found (here [https://github.com/stack-spot/stackspot-cs-controlplane-docs]).
+
+Full API documentation, including administration endpoints, can be found [here](https://github.com/stack-spot/stackspot-cs-controlplane-docs).
 
 # Error Codes
 
 Error Code	Description	Possible Cause	Solution
 
-| Error Code | Description | Possible Cause | Solution |
-|------------|--------------|----------------|----------|
-| 2002       | Auth failure| Invalid credentials | 	Verify your credentials|		
+| Error Code | Description |   Possible Cause   |         Solution       |
+|------------|-------------|--------------------|------------------------|
+|   2002     | Auth failure| Invalid credentials| Verify your credentials|		
 
 # Appendix
 
 For more detailed and in-depth information, see the following resources:
 
-* Documentação Oficial da StackSpot(https://docs.stackspot.com/) 
-* Repositório de Exemplos [https://github.com/stack-spot/stackspot-cs-controlplane-docs]
-* Repositório de Infraestrutura [https://github.com/stack-spot/stackspot-cs-infra-controlplanenewrepo]
+* [Documentação Oficial da StackSpot](https://docs.stackspot.com/) 
+* [Repositório de Exemplos](https://github.com/stack-spot/stackspot-cs-controlplane-docs)
+* [Repositório de Infraestrutura](https://github.com/stack-spot/stackspot-cs-infra-controlplanenewrepo)
